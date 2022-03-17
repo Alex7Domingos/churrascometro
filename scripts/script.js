@@ -1,7 +1,6 @@
-// carne = 400gr por pessoas(homens/mulheres) + de 6horas = 650gr
-// Cerveja = 6000ml por homens + 6horas = 8000ml
-// Mulheres valem por 0.5 em cerveja
-// Refrigerante = 500ml por pessoa + 6horas 1000ml
+// carne = 400gr por pessoas(homens/mulheres) acima de 6horas = 650gr
+// Cerveja = 6000ml por homens acima de 6horas = 8000ml, Mulheres valem por 0.5 em cerveja
+// Refrigerante = 500ml por pessoa acima de 6horas 1000ml
 
 // Crianças valem por 0,5
 
